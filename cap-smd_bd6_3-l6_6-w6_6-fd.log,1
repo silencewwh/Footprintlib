@@ -1,0 +1,23 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : CAP-SMD_BD6_3-L6_6-W6_6-FD.dra                )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Thu Aug 29 11:23:52 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/wuwei/Desktop/CADENCE_LIB
+    Name      = cap-smd_bd6_3-l6_6-w6_6-fd.psm
+    User      = wuwei
+    Machine   = DESKTOP-M4VTNR1
+
+
+Create symbol started.
+ 
+
+Create symbol completed.
+

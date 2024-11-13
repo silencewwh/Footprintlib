@@ -1,0 +1,23 @@
+\t (00:00:01) allegro 17.4 S039 Windows SPB 64-bit Edition
+\t (00:00:01)     Journal start - Mon Nov 11 18:45:01 2024
+\t (00:00:01)         Host=DESKTOP-SVMQVNV User=WWH Pid=6584 CPUs=12
+\t (00:00:01) CmdLine= c:\software\cadence\spb_17.4\tools\bin\allegro.exe C:\Users\WWH\Desktop\Footprintlib\DPAK-3_L6_5-W6_1-P2_29-LS9_9-BR.dra
+\t (00:00:01) 
+   (00:00:01) Loading axlcore.cxt 
+   (00:00:01) Loading skillExt.cxt 
+\t (00:00:01) Opening existing design...
+\i (00:00:01) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "DPAK-3_L6_5-W6_1-P2_29-LS9_9-BR"
+\d (00:00:01) Design opened: C:/Users/WWH/Desktop/Footprintlib/DPAK-3_L6_5-W6_1-P2_29-LS9_9-BR.dra
+\i (00:00:02) trapsize 11059
+\i (00:00:02) trapsize 11355
+\i (00:00:02) trapsize 11059
+\i (00:00:02) trapsize 11059
+\i (00:00:02) generaledit 
+\i (00:00:03) pick grid 479.667 -153.928
+\t (00:00:03) last pick:  500.000 -200.000
+\i (00:00:03) save 
+\i (00:00:04) fillin yes 
+\t (00:00:04) Symbol 'dpak-3_l6_5-w6_1-p2_29-ls9_9-br.psm' created.
+\i (00:00:04) generaledit 
+\i (00:00:05) exit 
+\t (00:00:06)     Journal end - Mon Nov 11 18:45:06 2024

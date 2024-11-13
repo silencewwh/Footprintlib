@@ -1,0 +1,50 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    Refresh Padstack                                                 )
+(                                                                     )
+(    Drawing          : TO-247-3_L15_9-W5_0-P5_44-L.dra               )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Thu Aug 29 12:21:59 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Thu Aug 29 12:21:59 2024				Page     1
+
+
+------ Pad Stack Refresh Options ------
+
+Input design  = 'C:/Users/wuwei/Desktop/CADENCE_LIB/TO-247-3_L15_9-W5_0-P5_44-L.dra'
+Output design = ''
+Reset symbol text and size locations   = 'NO'
+
+
+------ Library Paths ------
+PSMPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           e:/cadence/spb_17.4/share/local/pcb/symbols 
+           e:/cadence/spb_17.4/share/pcb/pcb_lib/symbols 
+           e:/cadence/spb_17.4/share/pcb/allegrolib/symbols 
+           C:/Users/wuwei/Desktop/CADENCE_LIB 
+           C:/Users/wuwei/Desktop/EIPULSE2-1/02LIB/package 
+
+PADPATH =  . 
+           symbols 
+           .. 
+           ../symbols 
+           e:/cadence/spb_17.4/share/local/pcb/padstacks 
+           e:/cadence/spb_17.4/share/pcb/pcb_lib/symbols 
+           e:/cadence/spb_17.4/share/pcb/allegrolib/symbols 
+           C:/Users/wuwei/Desktop/CADENCE_LIB 
+           C:/Users/wuwei/Desktop/EIPULSE2-1/02LIB/pad 
+
+
+------ Pad Stack Refresh Messages ------
+
+'OBL110_236H86_614'  pad stack refresh starting.
+
+     'OBL110_236H86_614'  pad stack refreshed successfully.
+     
+Completed refreshing all pad stacks successfully.

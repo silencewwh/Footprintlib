@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : PG-DSO-14-71.dra                              )
+(    Software Version : unreleased                                    )
+(    Date/Time        : Fri Aug 30 02:50:41 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/wuwei/Desktop/CADENCE_LIB
+    Name      = pg-dso-14-71.psm
+    User      = wuwei
+    Machine   = DESKTOP-M4VTNR1
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+
