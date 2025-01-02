@@ -1,0 +1,24 @@
+(---------------------------------------------------------------------)
+(                                                                     )
+(    CREATE SYMBOL                                                    )
+(                                                                     )
+(    Drawing          : TMPS6064.dra                                  )
+(    Software Version : 17.4S039                                      )
+(    Date/Time        : Mon Nov 18 17:14:26 2024                      )
+(                                                                     )
+(---------------------------------------------------------------------)
+
+
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/WWH/Desktop/Footprintlib
+    Name      = tmps6064.psm
+    User      = WWH
+    Machine   = DESKTOP-SVMQVNV
+
+
+Create symbol started.
+ 
+ ERROR(SPMHCS-1): Symbol is missing a refdes. 
+
+ERROR(SPMHA1-291): Create symbol has been aborted.
+
