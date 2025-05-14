@@ -1,158 +1,50 @@
 \t (00:00:01) allegro 17.4 S039 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Mon Nov 18 17:14:22 2024
-\t (00:00:01)         Host=DESKTOP-SVMQVNV User=WWH Pid=4028 CPUs=12
-\t (00:00:01) CmdLine= c:\software\cadence\spb_17.4\tools\bin\allegro.exe C:\Users\WWH\Desktop\Footprintlib\TMPS6064.dra
+\t (00:00:01)     Journal start - Wed May  7 17:28:31 2025
+\t (00:00:01)         Host=DESKTOP-SVMQVNV User=WWH Pid=3056 CPUs=12
+\t (00:00:01) CmdLine= c:\software\cadence\spb_17.4\tools\bin\allegro.exe C:\Users\WWH\Desktop\Footprintlib\TSM_N2_5KV.dra
 \t (00:00:01) 
    (00:00:01) Loading axlcore.cxt 
-   (00:00:01) Loading skillExt.cxt 
-\t (00:00:01) Opening existing design...
-\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged TMPS6064
-\d (00:00:02) Design opened: C:/Users/WWH/Desktop/Footprintlib/TMPS6064.dra
-\i (00:00:02) trapsize 6005
-\i (00:00:02) trapsize 6166
-\i (00:00:02) trapsize 6005
-\i (00:00:02) trapsize 4968
-\i (00:00:02) trapsize 5115
+   (00:00:02) Loading skillExt.cxt 
+\t (00:00:02) Opening existing design...
+\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "TSM_N2_5KV"
+\d (00:00:02) Design opened: C:/Users/WWH/Desktop/Footprintlib/TSM_N2_5KV.dra
+\t (00:00:02) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:02) trapsize 3864
+\i (00:00:02) trapsize 3967
+\i (00:00:02) trapsize 3864
+\i (00:00:02) trapsize 3197
+\t (00:00:02) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
+\i (00:00:02) trapsize 3291
 \i (00:00:02) generaledit 
-\i (00:00:03) save 
-\i (00:00:04) fillin yes 
-\e (00:00:04) ERROR(SPMHGE-7): Error(s) occurred, check logfile.
-\i (00:00:04) generaledit 
-\i (00:00:07) setwindow text
-\i (00:00:07) close
-\i (00:00:12) setwindow pcb
-\i (00:00:12) label refdes 
-\t (00:00:13) Pick text location.
-\i (00:00:14) pick grid -4.8992 12.8278
-\t (00:00:14) last pick:  -5.0800 12.7000
-\t (00:00:14) Enter text string.
+\i (00:00:05) zoom out 1 
+\i (00:00:05) setwindow pcb
+\i (00:00:05) zoom out 0.7059 10.7306
+\t (00:00:05) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
+\i (00:00:05) trapsize 6582
+\i (00:00:11) setwindow form.mini
+\i (00:00:11) FORM mini class 'PACKAGE GEOMETRY' 
+\i (00:00:14) setwindow pcb
+\i (00:00:14) pick grid 2.6804 33.2396
+\t (00:00:14) last pick:  2.7000 33.2000
+\i (00:00:15) prepopup 16.8966 35.8722
+\i (00:00:16) pick grid 5.0498 34.2926
+\t (00:00:16) last pick:  5.0000 34.3000
+\i (00:00:19) setwindow form.find
+\i (00:00:19) FORM find shapes YES 
+\i (00:00:19) FORM find shapes NO 
+\i (00:00:20) FORM find lines YES 
 \i (00:00:21) setwindow pcb
-\i (00:00:21) zoom in 1 
-\i (00:00:21) setwindow pcb
-\i (00:00:21) zoom in -3.7740 11.1912
-\i (00:00:21) trapsize 2557
-\i (00:00:21) zoom in 1 
-\i (00:00:21) setwindow pcb
-\i (00:00:21) zoom in -3.4160 11.7027
-\i (00:00:21) trapsize 1279
-\i (00:00:34) setwindow form.mini
-\i (00:00:34) FORM mini text_marker_size 50.0000 
-\i (00:00:35) setwindow pcb
-\i (00:00:35) pick grid -4.9759 12.6234
-\t (00:00:35) last pick:  -5.0800 12.7000
-\t (00:00:35) Enter text string.
-\i (00:00:36) setwindow pcb
-\i (00:00:36) zoom out 1 
-\i (00:00:36) setwindow pcb
-\i (00:00:36) zoom out -5.2572 9.2989
-\i (00:00:36) trapsize 2557
-\i (00:00:36) zoom out 1 
-\i (00:00:36) setwindow pcb
-\i (00:00:36) zoom out -5.2572 9.2989
-\i (00:00:36) trapsize 5115
-\i (00:00:39) prepopup 7.6316 20.0396
-\i (00:00:40) cancel 
-\i (00:00:40) generaledit 
-\i (00:00:43) label refdes 
-\t (00:00:43) Pick text location.
-\i (00:00:45) pick grid -11.5993 10.5264
-\t (00:00:45) last pick:  -12.7000 10.1600
-\t (00:00:45) Enter text string.
-\i (00:00:48) setwindow form.mini
-\i (00:00:48) FORM mini text_block 2 
-\i (00:00:48) FORM mini text_block 3 
-\i (00:00:48) FORM mini text_block 4 
-\i (00:00:49) FORM mini text_block 5 
-\i (00:00:49) FORM mini text_block 6 
-\i (00:00:49) FORM mini text_block 7 
-\i (00:00:50) FORM mini text_block 8 
-\i (00:00:50) FORM mini text_block 9 
-\i (00:00:50) FORM mini text_block 10 
-\i (00:00:56) FORM mini text_block 1 
-\i (00:00:58) setwindow pcb
-\i (00:00:58) pick grid -10.0649 11.6517
-\t (00:00:58) last pick:  -10.1600 12.7000
-\t (00:00:58) Enter text string.
-\i (00:01:05) setwindow form.mini
-\i (00:01:05) FORM mini text_block 2 
-\i (00:01:06) FORM mini text_block 3 
-\i (00:01:06) FORM mini text_block 4 
-\i (00:01:08) setwindow pcb
-\i (00:01:08) zoom in 1 
-\i (00:01:08) setwindow pcb
-\i (00:01:08) zoom in -17.7368 16.2548
-\i (00:01:08) trapsize 2557
-\i (00:01:08) zoom in 1 
-\i (00:01:08) setwindow pcb
-\i (00:01:08) zoom in -14.8215 15.0785
-\i (00:01:08) trapsize 1279
-\i (00:01:08) zoom in 1 
-\i (00:01:08) setwindow pcb
-\i (00:01:08) zoom in -14.8214 15.0785
-\i (00:01:08) trapsize 639
-\i (00:01:09) zoom out 1 
-\i (00:01:09) setwindow pcb
-\i (00:01:09) zoom out -8.7989 13.3652
-\i (00:01:09) trapsize 1279
-\i (00:01:09) zoom out 1 
-\i (00:01:09) setwindow pcb
-\i (00:01:09) zoom out -8.7734 13.3395
-\i (00:01:09) trapsize 2557
-\i (00:01:11) zoom in 1 
-\i (00:01:11) setwindow pcb
-\i (00:01:11) zoom in -7.3413 12.8793
-\i (00:01:11) trapsize 1279
-\i (00:01:11) zoom in 1 
-\i (00:01:11) setwindow pcb
-\i (00:01:11) zoom in -7.3412 12.8793
-\i (00:01:11) trapsize 639
-\i (00:01:11) zoom in 1 
-\i (00:01:11) setwindow pcb
-\i (00:01:11) zoom in -7.3412 12.8793
-\i (00:01:11) trapsize 320
-\i (00:01:11) zoom out 1 
-\i (00:01:11) setwindow pcb
-\i (00:01:11) zoom out -7.4563 12.8602
-\i (00:01:11) trapsize 639
-\i (00:01:20) setwindow form.mini
-\i (00:01:20) FORM mini text_block 5 
-\i (00:01:21) FORM mini text_block 6 
-\i (00:01:21) FORM mini text_block 7 
-\i (00:01:27) setwindow pcb
-\i (00:01:27) zoom out 1 
-\i (00:01:27) setwindow pcb
-\i (00:01:27) zoom out -8.2236 13.8703
-\i (00:01:27) trapsize 1279
-\i (00:01:27) zoom out 1 
-\i (00:01:27) setwindow pcb
-\i (00:01:27) zoom out -8.2235 13.8702
-\i (00:01:27) trapsize 2557
-\i (00:01:27) zoom out 1 
-\i (00:01:27) setwindow pcb
-\i (00:01:27) zoom out -4.6433 13.3076
-\i (00:01:27) trapsize 5115
-\i (00:01:29) setwindow form.mini
-\i (00:01:29) FORM mini text_block 6 
-\i (00:01:29) FORM mini text_block 7 
-\i (00:01:29) FORM mini text_block 8 
-\i (00:01:33) setwindow pcb
-\i (00:01:33) prepopup -17.6345 24.5598
-\i (00:01:34) done 
-\i (00:01:34) setwindow pcb
-\i (00:01:34) pick -10.1600 12.7000
-\i (00:01:34) setwindow pcb
-\i (00:01:34) generaledit 
-\i (00:01:36) move 
-\t (00:01:36) Select element(s) to move.
-\i (00:01:36) pick grid -4.6434 13.1031
-\t (00:01:36) last pick:  -5.0800 12.7000
-\t (00:01:36) last pick:  -10.1600 12.7000
-\t (00:01:36) Pick new location for the element(s).
-\i (00:01:40) pick grid 1.5964 8.8069
-\t (00:01:40) last pick:  2.5400 7.6200
-\i (00:01:42) save 
-\i (00:01:43) fillin yes 
-\t (00:01:43) Symbol 'tmps6064.psm' created.
-\i (00:01:43) generaledit 
-\i (00:01:44) exit 
-\t (00:01:44)     Journal end - Mon Nov 18 17:16:05 2024
+\i (00:00:21) pick grid 35.7198 7.7032
+\t (00:00:21) last pick:  35.7000 7.7000
+\i (00:00:22) prepopup 35.4565 11.1256
+\i (00:00:33) pop dyn_option_select 'Change class/subclass@:@PACKAGE GEOMETRY@:@SILKSCREEN_TOP' 
+\i (00:00:33) change class 
+\t (00:00:33) No DRC errors detected.
+\t (00:00:33) Changed 1 items out of 1 items found.
+\i (00:00:33) generaledit 
+\i (00:00:33) save 
+\i (00:00:35) fillin yes 
+\t (00:00:35) Symbol 'tsm_n2_5kv.psm' created.
+\i (00:00:35) generaledit 
+\i (00:20:25) exit 
+\t (00:20:25)     Journal end - Wed May  7 17:48:56 2025
