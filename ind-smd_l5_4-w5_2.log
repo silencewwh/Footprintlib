@@ -1,6 +1,6 @@
 (---------------------------------------------------------------------)
 (                                                                     )
-(    Downrev Design                                                   )
+(    CREATE SYMBOL                                                    )
 (                                                                     )
 (    Drawing          : IND-SMD_L5_4-W5_2.dra                         )
 (    Software Version : 17.4S039                                      )
@@ -9,6 +9,15 @@
 (---------------------------------------------------------------------)
 
 
+Create Symbol of type: PACKAGE
+    Directory = C:/Users/WWH/Desktop/Footprintlib
+    Name      = ind-smd_l5_4-w5_2.psm
+    User      = WWH
+    Machine   = DESKTOP-SVMQVNV
 
-Changes made to design for 17.2 compatibility.
+
+Create symbol started.
+ 
+
+Create symbol completed.
 
