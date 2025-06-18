@@ -1,50 +1,10 @@
-\t (00:00:01) allegro 17.4 S039 Windows SPB 64-bit Edition
-\t (00:00:01)     Journal start - Wed May  7 17:28:31 2025
-\t (00:00:01)         Host=DESKTOP-SVMQVNV User=WWH Pid=3056 CPUs=12
-\t (00:00:01) CmdLine= c:\software\cadence\spb_17.4\tools\bin\allegro.exe C:\Users\WWH\Desktop\Footprintlib\TSM_N2_5KV.dra
-\t (00:00:01) 
-   (00:00:01) Loading axlcore.cxt 
-   (00:00:02) Loading skillExt.cxt 
-\t (00:00:02) Opening existing design...
-\i (00:00:02) QtSignal SPBFoldDockArea FoldAreaTabWidget currentChanged "TSM_N2_5KV"
-\d (00:00:02) Design opened: C:/Users/WWH/Desktop/Footprintlib/TSM_N2_5KV.dra
-\t (00:00:02) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
-\i (00:00:02) trapsize 3864
-\i (00:00:02) trapsize 3967
-\i (00:00:02) trapsize 3864
-\i (00:00:02) trapsize 3197
-\t (00:00:02) Grids are drawn 0.4000, 0.4000 apart for enhanced viewing.
-\i (00:00:02) trapsize 3291
-\i (00:00:02) generaledit 
-\i (00:00:05) zoom out 1 
-\i (00:00:05) setwindow pcb
-\i (00:00:05) zoom out 0.7059 10.7306
-\t (00:00:05) Grids are drawn 0.8000, 0.8000 apart for enhanced viewing.
-\i (00:00:05) trapsize 6582
-\i (00:00:11) setwindow form.mini
-\i (00:00:11) FORM mini class 'PACKAGE GEOMETRY' 
-\i (00:00:14) setwindow pcb
-\i (00:00:14) pick grid 2.6804 33.2396
-\t (00:00:14) last pick:  2.7000 33.2000
-\i (00:00:15) prepopup 16.8966 35.8722
-\i (00:00:16) pick grid 5.0498 34.2926
-\t (00:00:16) last pick:  5.0000 34.3000
-\i (00:00:19) setwindow form.find
-\i (00:00:19) FORM find shapes YES 
-\i (00:00:19) FORM find shapes NO 
-\i (00:00:20) FORM find lines YES 
-\i (00:00:21) setwindow pcb
-\i (00:00:21) pick grid 35.7198 7.7032
-\t (00:00:21) last pick:  35.7000 7.7000
-\i (00:00:22) prepopup 35.4565 11.1256
-\i (00:00:33) pop dyn_option_select 'Change class/subclass@:@PACKAGE GEOMETRY@:@SILKSCREEN_TOP' 
-\i (00:00:33) change class 
-\t (00:00:33) No DRC errors detected.
-\t (00:00:33) Changed 1 items out of 1 items found.
-\i (00:00:33) generaledit 
-\i (00:00:33) save 
-\i (00:00:35) fillin yes 
-\t (00:00:35) Symbol 'tsm_n2_5kv.psm' created.
-\i (00:00:35) generaledit 
-\i (00:20:25) exit 
-\t (00:20:25)     Journal end - Wed May  7 17:48:56 2025
+\t (00:00:21) allegro 17.4 S039 Windows SPB 64-bit Edition
+\t (00:00:21)     Journal start - Mon Jun 16 14:13:41 2025
+\t (00:00:21)         Host=DESKTOP-SVMQVNV User=WWH Pid=17316 CPUs=12
+\t (00:00:21) CmdLine= C:\Software\Cadence\SPB_17.4\tools\bin\allegro.exe
+\t (00:00:21) 
+\d (00:00:21) Design opened: C:/Users/WWH/Desktop/Footprintlib/s08.dra
+\i (00:00:21) trapsize 1242
+\i (00:00:21) generaledit 
+\i (00:00:58) exit 
+\t (00:00:58)     Journal end - Mon Jun 16 14:14:18 2025

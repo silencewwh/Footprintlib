@@ -1,6 +1,31 @@
 \t (00:00:00) padstack_editor 17.4 S039 Windows SPB 64-bit Edition
-\t (00:00:00)     Journal start - Wed May  7 17:00:12 2025
-\t (00:00:00)         Host=DESKTOP-SVMQVNV User=WWH Pid=13224 CPUs=12
-\t (00:00:00) CmdLine= c:\software\cadence\spb_17.4\tools\bin\padstack_editor.exe C:\Users\WWH\Desktop\Footprintlib\holec1r0.pad
+\t (00:00:00)     Journal start - Mon Jun 16 10:28:58 2025
+\t (00:00:00)         Host=DESKTOP-SVMQVNV User=WWH Pid=2440 CPUs=12
+\t (00:00:00) CmdLine= c:\software\cadence\spb_17.4\tools\bin\padstack_editor.exe C:\Users\WWH\Desktop\Footprintlib\obl2_1.pad
 \t (00:00:00) 
-\t (00:00:02)     Journal end - Wed May  7 17:00:14 2025
+\d (00:00:01) QtSignal GuidedTabsParent GuidedTabs currentChanged "Design Layers"
+\d (00:00:05) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777237 0 false 1
+\d (00:00:06) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777237 0 false 1
+\d (00:00:07) QtSignal GuidedDesignLayersTab PadWidth editingFinished "2.5000"
+\d (00:00:09) QtSignal GuidedDesignLayersTab PadHeight editingFinished "1.5000"
+\d (00:00:09) QtSignal GuidedTabsParent GuidedDesignLayersTab keyPressEvent 16777220 0 false 1 ""
+\d (00:00:10) QtSignal GuidedTabsParent GuidedTabs currentChanged "Mask Layers"
+\d (00:00:11) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 Pad 0 1
+\d (00:00:11) QtSignal GuidedMaskLayersTab LayersTable cellDoubleClicked 0 Pad 0 1
+\d (00:00:11) QtSignal GuidedMaskLayersTab LayersTable cellClicked 0 Pad 0 1
+\d (00:00:15) QtSignal GuidedMaskLayersTab PadWidth editingFinished "2.8000"
+\d (00:00:18) QtSignal GuidedMaskLayersTab PadHeight editingFinished "1.8000"
+\d (00:00:18) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777220 0 false 1 ""
+\d (00:00:20) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged 2 Pad
+\d (00:00:20) QtSignal GuidedMaskLayersTab LayersTable cellClicked 2 Pad 2 1
+\d (00:00:22) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777248 33554432 false +
+\d (00:00:22) QtSignal 1
+\d (00:00:25) QtSignal GuidedMaskLayersTab PadWidth editingFinished "2.5000"
+\d (00:00:26) QtSignal GuidedMaskLayersTab PadHeight editingFinished "1.5000"
+\d (00:00:26) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777220 0 false 1 ""
+\d (00:00:27) QtSignal GuidedMaskLayersTab LayersTable itemSelectionChanged
+\d (00:00:28) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 16777249 67108864 false +
+\d (00:00:28) QtSignal 1
+\d (00:00:28) QtSignal GuidedTabsParent GuidedMaskLayersTab keyPressEvent 83 67108864 false 1 ""
+\d (00:00:30) QtFillin Yes
+\t (00:00:30)     Journal end - Mon Jun 16 10:29:27 2025
